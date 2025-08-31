@@ -49,7 +49,7 @@ Rust is a modern, fast, and memory-safe systems programming language. It’s a g
     
     MIT License
     
-    Copyright (c) 2025 George Kahugu
+    Copyright (c) [2025] [Kolem Edwin]
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -71,4 +71,4 @@ Rust is a modern, fast, and memory-safe systems programming language. It’s a g
 
 
 ###  Created by
-    George Kahugu | Moringa School AI Capstone | August 2025
+    Kolem Edwin | Moringa School AI Capstone | September 2025
