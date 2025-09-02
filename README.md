@@ -18,6 +18,11 @@ This is a simple, beginner-friendly "Hello World" application built with **Rust*
 Rust is a modern, fast, and memory-safe systems programming language. It’s a great alternative to C/C++ with a growing developer community. It’s also used in WebAssembly, embedded systems, and blockchain projects.
 
 ---
+##  System Requirements
+    * OS: Ubuntu Linux
+    * Tool/Editor required VS Code
+    * package Rustc and Cargo
+
 
 ##  Setup Instructions (Ubuntu Example)
 
@@ -50,12 +55,12 @@ Rust is a modern, fast, and memory-safe systems programming language. It’s a g
 ### Clone the Repository:
 * Open Terminal {Ctrl+Alt+T}
 ```
-    $git clone https://github.com/your-org/rust-hello-world.git
+    $git clone https://github.com/edwinkipchumba/Toolkit-with-GenAI.git
     
 ```
 
 ```
-$cd rust-hello-world
+$cd Toolkit-with-GenAI
 
 ```
         
