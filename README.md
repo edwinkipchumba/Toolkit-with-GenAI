@@ -94,14 +94,14 @@ Example Prompts Used
 
 ### Reference Resources
 
-*   Official Rust Book
+*   [Official Rust Book](https://doc.rust-lang.org/book/)
  (Highly recommended for beginners)
 
-*   Rust Installation Guide
+*   [Rust Installation Guide](https://www.rust-lang.org/tools/)
 
-*   Cargo – Rust’s Package Manager
+*   [Cargo – Rust’s Package Manager](https://doc.rust-lang.org/cargo/)
 
-*   Rust by Example
+*   [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 
 ### MIT License
     
