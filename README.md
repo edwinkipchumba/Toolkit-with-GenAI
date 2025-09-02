@@ -114,8 +114,7 @@ Example Prompts Used
 *   [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 
 ### MIT License
-    https://github.com/edwinkipchumba/Toolkit-with-GenAI/blob/main/LICENSE 
-  
+https://github.com/edwinkipchumba/Toolkit-with-GenAI/blob/main/LICENSE  
    
 
 ###  Created by
