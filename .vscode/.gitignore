@@ -1,0 +1,23 @@
+# Compiled output
+/target/
+
+# Cargo lock file for libraries (keep for binaries)
+/Cargo.lock
+
+# Backup and swap files
+*.rs.bk
+*~
+*.swp
+
+# Build artifacts
+debug/
+release/
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
