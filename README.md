@@ -83,10 +83,15 @@ File:   src/main.rs
     Hello, world!
 
 ### AI Prompts & Learning Reflections
-Example Prompts Used
+    * Example Prompts Used
     -"How do set up a Rust Hello World Project on ubuntu?"
     -"Explain the role of cargo.toml in a Rust Project?"
     -"Where is the entrypoint of a Rust program?"
+
+### Reflections
+* Generative AI was helpful in breaking down new concepts (e.g., Cargo, main.rs).
+* It provided step-by-step troubleshooting when errors occurred.
+* The key learning was that asking precise questions yields the most useful results.
 
 ### Common Errors & Fixes
 | Error | Couse | Solution |
@@ -110,28 +115,8 @@ Example Prompts Used
 
 ### MIT License
     
-    MIT License
-    
-    Copyright (c) [2025] [Kolem Edwin]
-    
-    Permission is hereby granted, free of charge, to any person obtaining a copy
-    of this software and associated documentation files (the "Software"), to deal
-    in the Software without restriction, including without limitation the rights
-    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-    copies of the Software, and to permit persons to whom the Software is
-    furnished to do so, subject to the following conditions:
-    
-    The above copyright notice and this permission notice shall be included in all
-    copies or substantial portions of the Software.
-    
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-    SOFTWARE.
-
+  
+   
 
 ###  Created by
     Kolem Edwin | Moringa School AI Capstone | September 2025
