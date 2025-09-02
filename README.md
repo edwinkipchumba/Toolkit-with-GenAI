@@ -1,4 +1,4 @@
-# Rust-Hello-World-ToolKit-with-Generative-AI
+#   Rust Hello World – Capstone Project Toolkit
 Welcome to the **Rust Hello World Toolkit**, created as part of the Moringa AI Capstone Project. This guide helps beginners learn Rust programming with the support of Generative AI tools.
 
 ---
@@ -6,10 +6,10 @@ Welcome to the **Rust Hello World Toolkit**, created as part of the Moringa AI C
 ##  Project Overview
 
 This is a simple, beginner-friendly "Hello World" application built with **Rust**. The goal is to learn a new programming language by leveraging AI to:
-- Understand syntax and structure
-- Set up a working Rust environment
-- Compile and run basic Rust code
-- Document the entire process for others to follow
+*   Understand syntax and structure
+*   Set up a working Rust environment
+*    Compile and run basic Rust code
+*    Document the entire process for others to follow
 
 ---
 
@@ -19,32 +19,90 @@ Rust is a modern, fast, and memory-safe systems programming language. It’s a g
 
 ---
 
-##  Getting Started
+##  Setup Instructions (Ubuntu Example)
 
-### Prerequisites
-- Install [Rust](https://www.rust-lang.org/tools/install) using `rustup`:
-  ```bash
-  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+### Install Prerequisites
+```
+    $sudo apt update && sudo apt upgrade -y
+    $sudo apt install -y curl build-essential git
+
+```
+
+
+* Install Rust(via rustup)
+
+  ```
+  $curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
 
 ### Restart terminal or run:
+
+```
     source $HOME/.cargo/env
+```
+### Verify Installation
+```
+    $rustc --version
+    $cargo --version
+
+```
+
+### Clone the Repository:
+* Open Terminal {Ctrl+Alt+T}
+```
+    $git clone https://github.com/your-org/rust-hello-world.git
     
-### Project Structure
-    rust-hello-world/
-    └── src/
-        └── main.rs
+```
+
+```
+$cd rust-hello-world
+
+```
         
-### Code: src/main.rs
+### Minimal Working Example
+File:   src/main.rs
+
+```
     fn main() {
     println!("Hello, world!");
     }
+```
 
 ### Run the App
-    cargo run
+
+```
+    $cargo run
+```
 
 ### Expected output:
     Hello, world!
-    
+
+### AI Prompts & Learning Reflections
+Example Prompts Used
+    -"How do set up a Rust Hello World Project on ubuntu?"
+    -"Explain the role of cargo.toml in a Rust Project?"
+    -"Where is the entrypoint of a Rust program?"
+
+### Common Errors & Fixes
+| Error | Couse | Solution |
+| :-----------------| :-----------------: | ------------------: |
+| cargo:command not found | Rust not installed or PATH not updated | Run source SHOME/.cargo/env |
+| error:linking with cc failed | Missing build tools | Install with sudo apt install build-essential |
+| error[E0425]: cannot find function 'println' | Typo in code(e.g., printIn! instead of println) | Fix the typo |
+| program runs but shows no output | Code missing println! | Add println!("Hello, world"), |
+
+
+### Reference Resources
+
+*   Official Rust Book
+ (Highly recommended for beginners)
+
+*   Rust Installation Guide
+
+*   Cargo – Rust’s Package Manager
+
+*   Rust by Example
+
 ### MIT License
     
     MIT License
