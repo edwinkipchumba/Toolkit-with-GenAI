@@ -83,10 +83,10 @@ File:   src/main.rs
     Hello, world!
 
 ### AI Prompts & Learning Reflections
-    * Example Prompts Used
-    -"How do set up a Rust Hello World Project on ubuntu?"
-    -"Explain the role of cargo.toml in a Rust Project?"
-    -"Where is the entrypoint of a Rust program?"
+Example Prompts Used
+* How do set up a Rust Hello World Project on ubuntu?
+* Explain the role of cargo.toml in a Rust Project?"
+* Where is the entrypoint of a Rust program?
 
 ### Reflections
 * Generative AI was helpful in breaking down new concepts (e.g., Cargo, main.rs).
@@ -114,7 +114,7 @@ File:   src/main.rs
 *   [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 
 ### MIT License
-    
+    https://github.com/edwinkipchumba/Toolkit-with-GenAI/blob/main/LICENSE 
   
    
 
