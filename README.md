@@ -21,7 +21,6 @@ Rust is a modern, fast, and memory-safe systems programming language. It’s a g
 ##  System Requirements
     * OS: Ubuntu Linux
     * Tool/Editor required VS Code
-    * package Rustc and Cargo
 
 
 ##  Setup Instructions (Ubuntu Example)
@@ -83,10 +82,23 @@ File:   src/main.rs
     Hello, world!
 
 ### AI Prompts & Learning Reflections
-Example Prompts Used
-* How do set up a Rust Hello World Project on ubuntu?
-* Explain the role of cargo.toml in a Rust Project?"
-* Where is the entrypoint of a Rust program?
+
+    * Prompt used:
+-Link to the curriculum for the prompt:https://ai.moringaschool.com/ai-software/ai-use-cases/usecases-documentation/
+-Prompt 2: Intent and Logic Explanation
+
+### Example Prompts Used
+-Prompt 2: Intent and Logic Explanation
+I need help documenting this capstone project, which will harness the power of generative AI prompts to explore and learn a new technology in software development. which will create a beginner-friendly toolkit that helps anyone get started with that technology.The intent and logic behind this code. Please:
+[Rust]
+[hello world]
+ Toolkit Document (Markdown or PDF) including: 
+ . Overview of the chosen tech. 
+ . Set up instructions. 
+ . Minimal working example (Hello World, quick API call, etc.). 
+ . AI prompts used and your learning reflections. :: add this as documentation reference 
+ . Common errors & how to resolve them. 
+ . Reference resources (official docs, tutorials).
 
 ### Reflections
 * Generative AI was helpful in breaking down new concepts (e.g., Cargo, main.rs).
@@ -116,6 +128,3 @@ Example Prompts Used
 ### MIT License
 https://github.com/edwinkipchumba/Toolkit-with-GenAI/blob/main/LICENSE  
    
-
-###  Created by
-    Kolem Edwin | Moringa School AI Capstone | September 2025
